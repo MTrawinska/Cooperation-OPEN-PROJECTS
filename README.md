@@ -7,6 +7,8 @@ Developed: in progress
 
 Cooperation with 61 developers
 
+Scope: Backend + database
+
 [More about](https://github.com/Open-Health-Data-Project)
 
 ## 2. EndoApps
